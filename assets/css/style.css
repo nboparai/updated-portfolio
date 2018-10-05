@@ -1,0 +1,101 @@
+nav{
+    float: right;
+    border-radius: 8px;
+    margin: 16px;
+    position: relative;
+    right: 15%;
+}
+#about{
+    clear: both;
+     /* background-color: rgb(179, 176, 172);  */
+    background-image: linear-gradient(to bottom,rgb(228, 188, 135),rgb(179, 176, 172));
+    height: 500px;
+    position: relative;
+    border-radius: 8px;
+
+}
+#me{
+    width: 80%;
+    height: 80%; 
+    top: 10%;
+    bottom: 10%;
+    position: relative;
+    padding: 24px;
+    background-color: rgb(244, 247, 241);
+    border-radius: 8px;
+}
+h1{
+    background-color: rgb(243, 174, 71);
+    float: left;
+    color: whitesmoke;
+    padding: 24px;
+    border-radius: 8px;
+    left: 15%;
+    position: relative;
+}
+#box{
+    float: left;
+}
+h2{
+    border-bottom: 4px solid rgb(228, 188, 135);
+}
+.content{
+    clear: both;
+}
+#container{
+    background-image: linear-gradient(to bottom,rgb(228, 188, 135),rgb(179, 176, 172));
+    position: relative;
+    top: 20%;
+    margin: auto;
+    height: 500px;
+    border-radius: 8px;
+}
+form{
+    position: relative;
+    top: 10%;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    padding: 24px;
+    background-color: rgb(244, 247, 241);
+    border-radius: 8px;
+}
+#footer{
+    position: fixed;
+    bottom: 8px;
+    background-color:grey;
+    border-top: 8px solid rgb(243, 174, 71);
+    width: 100%;
+    text-align: center;
+    padding: 16px;
+}
+input{
+    padding: 8px;
+    border-radius: 8px;
+}
+button{
+    margin-top: 14px;
+}
+.image-c{
+    clear: both;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    top: 10%;
+    position: relative;
+    padding: 24px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding: 8px;
+    border: 4px solid rgb(104, 96, 96);
+    border-radius: 8px;
+    margin: 8px;
+}
+#image-set{
+    padding: 24px;
+    margin: auto;
+    background-image: linear-gradient(to bottom,rgb(228, 188, 135),rgb(179, 176, 172));
+
+}
