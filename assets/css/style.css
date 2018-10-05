@@ -99,3 +99,14 @@ img{
     background-image: linear-gradient(to bottom,rgb(228, 188, 135),rgb(179, 176, 172));
 
 }
+#myImage{
+    float: left;
+}
+a:hover{
+    
+     background-image: url("name.jpg"); 
+    border-radius: 4px;
+    color: black;
+    font-weight: bold
+
+}
